@@ -1,7 +1,8 @@
 # Projeto Cofre com Alarme e Senha 🔒
-![image](https://github.com/user-attachments/assets/6d776e77-51a8-4e7c-adfc-251512a24a8b)
-![image](https://github.com/user-attachments/assets/183fe336-d2f7-494b-b224-fb98f2044de1)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/6d776e77-51a8-4e7c-adfc-251512a24a8b" width="60%" />
+  <img src="https://github.com/user-attachments/assets/183fe336-d2f7-494b-b224-fb98f2044de1" width="35%" />
+</div>
 
 ## Equipe 👨‍💻👩‍💻
 - Angelo Lucas
@@ -21,5 +22,5 @@ Este projeto visa desenvolver um sistema de segurança para um cofre utilizando 
 - Buzzer – Para emitir som quando o alarme é disparado.
 - Resistores – Para garantir o funcionamento correto dos componentes.
 - Arduino – A plataforma que controla os sensores e o buzzer.
-- Potenciômetro – Usado para inserir a senha no sistema.
-- Botão – Para interagir com o sistema (ainda não implementado no código do Processing).
+- Potenciômetro – Usado para configurar a senha.
+- Botão – Usado para confirmar a senha.
