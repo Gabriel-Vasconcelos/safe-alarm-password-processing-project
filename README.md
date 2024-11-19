@@ -1,5 +1,6 @@
 # Projeto Cofre com Alarme e Senha 🔒
 ![image](https://github.com/user-attachments/assets/6d776e77-51a8-4e7c-adfc-251512a24a8b)
+![image](https://github.com/user-attachments/assets/183fe336-d2f7-494b-b224-fb98f2044de1)
 
 
 ## Equipe 👨‍💻👩‍💻
