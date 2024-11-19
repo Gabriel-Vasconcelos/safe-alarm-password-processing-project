@@ -1,4 +1,6 @@
 # Projeto Cofre com Alarme e Senha 🔒
+![image](https://github.com/user-attachments/assets/6d776e77-51a8-4e7c-adfc-251512a24a8b)
+
 
 ## Equipe 👨‍💻👩‍💻
 - Angelo Lucas
